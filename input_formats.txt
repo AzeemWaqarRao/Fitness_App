@@ -7,7 +7,15 @@ physical_activity_mapping = {
     }
 
 
-gender_mapping = {"male": 0, "female": 1}
+gender = {"male": 0, "female": 1}
+
+age (in years)
+weight (in kg)
+height (in cm)
+
+goal = {'weight_gain', 'weight_loss'}
+
+num_meals = 3 to 6
 
 
 workout_schedule = {

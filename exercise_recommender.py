@@ -51,7 +51,7 @@ class WorkoutPlanner:
 
             workout_plan[day] = selected_exercises
 
-        return json.dumps(workout_plan, indent=4)
+        return workout_plan
 
     def calculate_calories_to_burn(self, calorie_intake, goal):
         if goal == "weight_gain":
