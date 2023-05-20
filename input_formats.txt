@@ -1,0 +1,22 @@
+physical_activity_mapping = {
+        "sedentary": 0,
+        "low": 1,
+        "moderate": 2,
+        "high": 3,
+        "very high": 4
+    }
+
+
+gender_mapping = {"male": 0, "female": 1}
+
+
+workout_schedule = {
+        'Monday': ['chest'],
+        'Tuesday': ['upper arms', 'lower arms'],
+        'Wednesday': ['back'],
+        'Thursday': ['shoulders'],
+        'Friday': ['upper legs', 'lower legs'],
+        'Saturday': ['cardio']
+    }
+
+    

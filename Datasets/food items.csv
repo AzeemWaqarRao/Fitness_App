@@ -1,0 +1,87 @@
+,food items,serving size,calories,Category
+0,apple juice,240ml,110.0,drinks
+1,appricot nector,240ml,134.0,drinks
+2,banana juice,240ml,120.0,drinks
+3,blackberry juice,240ml,115.0,drinks
+4,carrot juice,240ml,96.0,drinks
+5,cherry juice ,240ml,108.0,drinks
+6,coconut milk,240ml,559.0,drinks
+7,coconut water,240ml,46.0,drinks
+8,cucumber juice ,240ml,24.0,drinks
+9,grape juice,240ml,144.0,drinks
+10,grapefruit juice,240ml,110.0,drinks
+11,lemon juice,240ml,50.0,drinks
+12,lemonaid,240ml,120.0,drinks
+13,orange juice,240ml,110.0,drinks
+14,papaya juice,240ml,139.0,drinks
+15,peach juice,240ml,130.0,drinks
+16,pear juice,240ml,144.0,drinks
+17,pineapple juice,240ml,127.0,drinks
+18,pineapple orange juice,240ml,120.0,drinks
+19,plum juice,240ml,170.0,drinks
+20,pomegrante juice,240ml,158.0,drinks
+21,tomato juice ,240ml,41.0,drinks
+22,milk tea/chai,236ml,0.0,drinks
+23,whole milk,244ml,149.0,drinks
+24,yogurt,227g,138.0,drinks
+25,smoothie ,240ml,89.0,drinks
+26,cracker,7g,35.0,snacks
+27,oat bran,94g,231.0,sides
+28,rusk,10g,41.0,snacks
+29,tortilla,197g,467.0,sides
+30,turkey breast,21g,22.0,meat
+31,roast beef,21g,56.0,meat
+32,chicken breast fillet,21g,17.0,meat
+33,bacon and eggs,139g,539.0,dairy
+34,baked beans,260g,244.0,extras
+35,baked chicken,172g,282.0,meat
+36,beef stew,196g,186.0,soups
+37,burrito ,200g,326.0,sides
+38,butter chicken,350g,490.0,meat
+39,chicken ceaser salad,309g,392.0,salad
+40,chichen fried steak,280g,423.0,meat
+41,chichen parmesan,227g,250.0,meat
+42,chicken tikka,241g,195.0,meat
+43,daal,92g,304.0,extras
+44,dosa,435g,287.0,sides
+45,fajita,248g,290.0,meat
+46,fried shrimp,27g,75.0,meat
+47,grilled cheese sandwich,136g,392.0,meat
+48,ham and cheese sandwich,146g,352.0,meat
+49,mashed potatoes,210g,174.0,sides
+50,pratha,80g,260.0,sides
+51,pea soup,253g,190.0,soups
+52,peanut butter sandwich,49g,200.0,sides
+53,potato salad,95g,136.0,salad
+54,tandoori chichen,175g,198.0,meat
+55,spring rolls,140g,350.0,extras
+56,kebab,360g,774.0,meat
+57,brown rice,185g ,670.0,sides
+58,Apple,182g,95.0,fruits
+59,Apricot,35g,17.0,fruits
+60,Avocado,200g,320.0,fruits
+61,Banana,125g,111.0,fruits
+62,Blackberries,144g,62.0,fruits
+63,Blueberries,148g,84.0,fruits
+64,Dates,7.1g,20.0,fruits
+65,Figs,50g,37.0,fruits
+66,Fruit salad,249g,125.0,salad
+67,Grapes,151g,104.0,fruits
+68,Greengage,5g,2.0,fruits
+69,Guava,55g,37.0,fruits
+70,Kiwi,183g,112.0,fruits
+71,Lemon,58g,17.0,fruits
+72,Lime,67g,20.0,fruits
+73,Lychees,10g,7.0,fruits
+74,Mango,336g,202.0,fruits
+75,Orange,131g,62.0,fruits
+76,Papaya,500g,215.0,fruits
+77,Passion Fruit,18g,17.0,fruits
+78,Peach,150g,59.0,fruits
+79,Pear,178g,101.0,fruits
+80,Pineapple,905g,453.0,fruits
+81,Plum,66g,30.0,fruits
+82,Pomegranate,282g,234.0,fruits
+83,Raspberries,123g,64.0,fruits
+84,Strawberries,152g,49.0,fruits
+85,Watermelon,286g,86.0,fruits
