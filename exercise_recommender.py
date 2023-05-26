@@ -25,8 +25,10 @@ class WorkoutPlanner:
         self.map_intensity_to_met()
 
         RMR = predict_rmr(self.gender, self.age, self.weight, self.height)
+        calories_burnt_wrt_met = {3.5 : predict_calories_burnt(3.5, RMR, round(5/60, 4)),
+                                    5 : predict_calories_burnt(5, RMR, round(5/60, 4))}
 
-        self.exercise_df['Calories Burnt'] = self.exercise_df.apply(lambda row: predict_calories_burnt(row['MET'], RMR, round(5/60, 4)), axis=1)
+        self.exercise_df['Calories Burnt'] = self.exercise_df.apply(lambda row: calories_burnt_wrt_met[row['MET']], axis=1)
         self.exercise_df.to_csv(self.dataset_path, index=False)
 
     def suggest_workout_plan(self, workout_schedule):
